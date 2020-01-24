@@ -1,0 +1,22 @@
+{
+  "name": "crafting-css",
+  "version": "1.0.0",
+  "description": "A few considerations to craft better CSS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch index.scss index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathieueveillard/crafting-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathieueveillard/crafting-css/issues"
+  },
+  "homepage": "https://github.com/mathieueveillard/crafting-css#readme",
+  "devDependencies": {
+    "sass": "^1.25.0"
+  }
+}
